@@ -1,0 +1,41 @@
+3 logins- teacher, receptionist, principle
+
+content
+assignment corner
+fees history structure
+time table structure
+Event calendar
+
+
+Fees Payment | Edit Fees | View All Paid Fees
+	     | Generate Reciept
+
+Reciept No.
+Institute
+!
+Branch1:46 AM 12/26/2016
+Payment Type
+Roll No.
+Depositor Name
+Payment Date
+
+Fees For Month | Year
+Anual Fees
+Course Fees
+Uniform Fees
+Stationary Fees
+ID Card Fees
+Cafeteria Payment
+Other Fees
+
+Net Amount
+Balance
+Description
+
+
+Fees Type- 1-Fine , 2-Balance Clearance 3-Tution Fees 4-Event
+Actual Amount
+Discount
+Payable Amount
+Paid Amount
+Balance Comments
